@@ -1,4 +1,4 @@
-# CogitoForge AI
+![CogitoForge AI](../assets/logo-horizontal.png)
 
 <p align="center">
   <strong>Building practical AI products with clarity, speed, and trust.</strong>
